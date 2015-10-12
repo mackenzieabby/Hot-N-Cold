@@ -1,0 +1,17 @@
+--create newGame function to create a new game. 
+    On reload start new game. 
+  Secret number is generated between 1 and 100  DONE
+  write named function to take care of this 
+  User is x amount away = hot or cold or hotter or ice cold. DONE
+  Feedback should appear in div#feedback DONE, but text fades out..
+  Track Guesses in span#count and the count is default 0 on page reload 
+    AKA 1 guess 2 guess and so on 
+  addd guessed numbers to a <li> to ul#guessList.
+requre valid input validation from 1 - 100
+
+on click of submit add a li to UL then value then a close li on each click
+
+
+
+
+  
